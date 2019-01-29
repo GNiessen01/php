@@ -10,14 +10,16 @@
 <body>
 <style>
     body {
-        background-color: gold;
+        background-color: crimson;
     }
 </style>
-<h1>Inhoud</h1>
-<a href="h01/index.php">Hoofdstuk 1</a><br>
-<a href="h02/index.php">Hoofdstuk 2</a><br>
-<a href="h03/index.php">Hoofdstuk 3</a><br>
-<a href="h04/index.php">Hoofdstuk 4</a><br>
-<a href="h05/start.php">Hoofdstuk 5</a><br>
+<h1>Hoofdstuk 3</h1>
+<a href="index1.php">Opdracht 1</a><br>
+<a href="index2.php">Opdracht 2</a><br>
+<a href="index3.php">Opdracht 3</a><br>
+<a href="index4.php">Opdracht 4</a><br>
+<a href="index5.php">Opdracht 5</a><br>
+<a href="index6.php">Opdracht 6</a><br>
 </body>
 </html>
+

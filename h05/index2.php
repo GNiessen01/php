@@ -9,15 +9,24 @@
 </head>
 <body>
 <style>
-    body {
-        background-color: gold;
+    img {
+        width: 300px;
+        height: 300px;
+        margin: 5px;
     }
 </style>
-<h1>Inhoud</h1>
-<a href="h01/index.php">Hoofdstuk 1</a><br>
-<a href="h02/index.php">Hoofdstuk 2</a><br>
-<a href="h03/index.php">Hoofdstuk 3</a><br>
-<a href="h04/index.php">Hoofdstuk 4</a><br>
-<a href="h05/start.php">Hoofdstuk 5</a><br>
+
 </body>
 </html>
+<?php
+//$plaatje = $_POST['dier'];
+//echo '<img src="img/' . $plaatje . '.jpg" alt="' . $plaatje . '">';
+
+//print_r($_POST["dier"]);
+
+foreach ($_POST['dier'] as $plaatje) {
+//    echo $plaatje;
+    echo "<img src='img/".$plaatje.".jpg'>";
+}
+?>
+
