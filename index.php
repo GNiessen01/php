@@ -19,5 +19,6 @@
 <a href="h03/index.php">Hoofdstuk 3</a><br>
 <a href="h04/index.php">Hoofdstuk 4</a><br>
 <a href="h05/start.php">Hoofdstuk 5</a><br>
+<a href="h06/school.php">Hoofdstuk 6</a><br>
 </body>
 </html>
